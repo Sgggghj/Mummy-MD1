@@ -1,6 +1,6 @@
 {
-  "name":"ALPHA-MD",
-  "description":"bot whatsapp développé par France King",
+  "name":"MUMMY-MD",
+  "description":"bot whatsapp développé par Mwaas King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
   "repository":"https://github.com/Keithkeizzah/keith-tech-1",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"KEITH-TECH",
+      "value":"JUSTEVANS-TECH",
       "required":false
 
     } ,
@@ -46,7 +46,7 @@
       "required":false
        
      },
-    "PUBLIC_MODE":
+    "PRAVITE_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR KEITH"
+    "value": "MR JUSTEVANS"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254748387615"
+    "value": "254703267810"
   },
     "WARN_COUNT":
   {
