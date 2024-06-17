@@ -3,7 +3,7 @@
  <h1 align="center"> Mummy MD</h1>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/ddd699269a1e50008ac4e.jpg'/></a>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+Mummy+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+JUSTEVANS)](https://git.io/typing-svg)
 
