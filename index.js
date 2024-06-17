@@ -154,18 +154,18 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const FranceKing = '254757835036';
-            const FranceKing1 = '254751284190';
-            const FranceKing2 = "254750948696";
-            const FranceKing3 = '254742063632';
+            const justevans King = '254757835036';
+            const Justevans 1 = '254703267810';
+            const Justevans 2 = "254703267810";
+            const Justevans 3 = '254703267810';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, Justevans, Justevans 1, Justevans 2, Justevans 3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{KEITH-TECH}...[][]");
+            console.log("\t [][]...{JUSTEVANS-TECH}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -388,7 +388,7 @@ function mybotpic() {
                         let stickerMess = new Sticker(data.url, {
                             pack: conf.NOM_OWNER,
                             type: StickerTypes.FULL,
-                            categories: ["🤩", "🎉"],
+                            categories: ["😎", "😎"],
                             id: "12345",
                             quality: 70,
                             background: "transparent",
@@ -438,10 +438,10 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'KEITH-TECH',
+                                        pack: 'JUSTEVANS-TECH',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
-                                        categories: ['🤩', '🎉'],
+                                        categories: ['😎', '😎'],
                                         id: '12345',
                                         quality: 50,
                                         background: '#000000'
@@ -536,10 +536,10 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'KEITH-TECH',
+                pack: 'JUSTEVANS-TECH',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
-                categories: ['🤩', '🎉'],
+                categories: ['😎', '😎'],
                 id: '12345',
                 quality: 50,
                 background: '#000000'
@@ -680,7 +680,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `╭═══◇𝐀𝐋𝐏𝐇𝐀-𝐌𝐃◇═══⊷
+            let msg = `╭═══◇MUMMY-𝐌𝐃◇═══⊷
 `;
              
             let membres = group.participants;
@@ -691,7 +691,7 @@ zk.ev.on('group-participants.update', async (group) => {
             msg += `║ *You are welcomed here* _You MAY read the group description FOR more info and Avoid getting removed_
             
      
- ╰═══◇KEITH-TECH◇═══⊷
+ ╰═══◇JUSTEVANS-TECH◇═══⊷
             
  ◇ *GROUP DESCRIPTION*  ◇
 
@@ -790,7 +790,7 @@ ${metadata.desc}`;
 
                  
                 },{
-                    timezone: "Bungoma,Kenya"
+                    timezone: "Voi,Kenya"
                   });
               }
         
@@ -865,17 +865,17 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╭════⊷
-║ *『𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 𝐢𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝』*
-║    Creator: 𝐊𝐄𝐈𝐓𝐇 𝐊𝐄𝐈𝐙𝐙𝐀𝐇
+║ *『MUMMY-𝐌𝐃 𝐢𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝』*
+║    Creator: JUST EVANS 
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commands : ${evt.cm.length}︎
 ╰═════════════════⊷
-              *𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇
+              *𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 JUSTEVANS 𝐓𝐄𝐂𝐇
 ╭───◇
 ┃ 
 ┃
-┃ *Thank you for choosing 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃*
+┃ *Thank you for choosing MUMMY-𝐌𝐃*
 ┃
 ┃
 ┃ Join The Official Whatsapp:https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47
