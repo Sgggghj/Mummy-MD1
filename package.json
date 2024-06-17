@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "MUMMY-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "KEITH-TECH",
+    "Justevans-TECH",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "mwaas king1"
   ],
-  "author": "France King",
+  "author": "Justevans King",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
