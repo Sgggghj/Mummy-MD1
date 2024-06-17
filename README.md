@@ -1,15 +1,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> ALPHA MD</h1>
+ <h1 align="center"> Mummy MD</h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+Ȃ̈L̑̈P̑̈H̑̈Ȃ̈+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈K̑̈Ȇ̈Ȋ̈Z̑̈Z̑̈Ȃ̈H̑̈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+Mummy+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+JUSTEVANS)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> ALPHA MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> Mummy MD💥, A Simple WhatsApp user BOT, Created by Justevans 😎 Tech.
 </p>
 
 
@@ -19,10 +19,10 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://justevans-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
-  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://justevans-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
 ## 𝐏𝐥𝐞𝐚𝐬𝐞 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐠𝐞𝐭 𝐟𝐫𝐞𝐞 𝐜𝐜 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬👇👇
@@ -49,9 +49,9 @@
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, <a href="https://github.com/Keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+1, <a href="https://github.com/jußt/Mummy-MD1/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-2, TAP ON KEITH TECH APP DOWN THERE
+2, TAP ON Evans TECH APP DOWN THERE
 
 
 
@@ -59,12 +59,12 @@
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Keith Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use justevans Tech App..
 
-## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  𝐊𝐄𝐈𝐓𝐇 𝐌𝐃
+## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  JUST  𝐌𝐃
 <h1 align="center">
  
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD1&template=https://github.com/keithkeizzah/ALPHA-MD1.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com//MUMMY-MD1&template=https://github.com/JUSTEVANS/MUMMY-MD1.git)***
 
 <br>
 
@@ -73,10 +73,10 @@
 
  <h1 align="center">
 
-***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐊𝐄𝐈𝐓𝐇 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
+***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 JUSTEVANS 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😎😎༒***
 
 
-  ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
+  ***<p align="center"><a href="https://Justevans-session-bd5cfaec090b.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
 
 
@@ -92,25 +92,25 @@
 ## Contributions
 
 
-Contributions to *ALPHA-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *MUMMY-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
+[![github](https://github.com/github.png?size=100)](https://github.com/jußt)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/justevans)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
-The *ALPHA-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *MUMMY-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *ALPHA-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Keith Tech
+Enjoy the diverse features of the *MUMMY-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by Evans Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
